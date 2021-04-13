@@ -1,0 +1,100 @@
+M:\newDeepLearning\caffe-windows\NetworkProject\NetworkProject\bin\Debug\NetworkProject.exe.config
+M:\newDeepLearning\caffe-windows\NetworkProject\NetworkProject\bin\Debug\NetworkProject.exe
+M:\newDeepLearning\caffe-windows\NetworkProject\NetworkProject\bin\Debug\NetworkProject.pdb
+M:\newDeepLearning\caffe-windows\NetworkProject\NetworkProject\obj\Debug\NetworkProject.csprojResolveAssemblyReference.cache
+M:\newDeepLearning\caffe-windows\NetworkProject\NetworkProject\obj\Debug\NetworkProject.GameStart.resources
+M:\newDeepLearning\caffe-windows\NetworkProject\NetworkProject\obj\Debug\NetworkProject.Properties.Resources.resources
+M:\newDeepLearning\caffe-windows\NetworkProject\NetworkProject\obj\Debug\NetworkProject.csproj.GenerateResource.Cache
+M:\newDeepLearning\caffe-windows\NetworkProject\NetworkProject\obj\Debug\NetworkProject.exe
+M:\newDeepLearning\caffe-windows\NetworkProject\NetworkProject\obj\Debug\NetworkProject.pdb
+M:\newDeepLearning\caffe-windows\NetworkProject\NetworkProject\obj\Debug\NetworkProject.GameSettingScreen.resources
+M:\newDeepLearning\caffe-windows\NetworkProject\NetworkProject\obj\Debug\NetworkProject.GamePlayingScreen.resources
+M:\newDeepLearning\caffe-windows\NetworkProject\NetworkProject\obj\Debug\NetworkProject.WinningForm.resources
+M:\newDeepLearning\caffe-windows\NetworkProject - Copy\NetworkProject\bin\Debug\NetworkProject.exe.config
+M:\newDeepLearning\caffe-windows\NetworkProject - Copy\NetworkProject\obj\Debug\NetworkProject.exe
+M:\newDeepLearning\caffe-windows\NetworkProject - Copy\NetworkProject\obj\Debug\NetworkProject.pdb
+M:\newDeepLearning\caffe-windows\NetworkProject - Copy\NetworkProject\bin\Debug\NetworkProject.exe
+M:\newDeepLearning\caffe-windows\NetworkProject - Copy\NetworkProject\bin\Debug\NetworkProject.pdb
+M:\newDeepLearning\caffe-windows\NetworkProject - Copy\NetworkProject\obj\Debug\NetworkProject.csprojResolveAssemblyReference.cache
+M:\newDeepLearning\caffe-windows\NetworkProject - Copy\NetworkProject\obj\Debug\NetworkProject.GamePlayingScreen.resources
+M:\newDeepLearning\caffe-windows\NetworkProject - Copy\NetworkProject\obj\Debug\NetworkProject.GameSettingScreen.resources
+M:\newDeepLearning\caffe-windows\NetworkProject - Copy\NetworkProject\obj\Debug\NetworkProject.GameStart.resources
+M:\newDeepLearning\caffe-windows\NetworkProject - Copy\NetworkProject\obj\Debug\NetworkProject.Properties.Resources.resources
+M:\newDeepLearning\caffe-windows\NetworkProject - Copy\NetworkProject\obj\Debug\NetworkProject.WinningForm.resources
+M:\newDeepLearning\caffe-windows\NetworkProject - Copy\NetworkProject\obj\Debug\NetworkProject.csproj.GenerateResource.Cache
+C:\Users\Ahmed Anwar\Desktop\NetworkProjectTemplate\NetworkProject\NetworkProject\bin\Debug\NetworkProject.exe.config
+C:\Users\Ahmed Anwar\Desktop\NetworkProjectTemplate\NetworkProject\NetworkProject\obj\Debug\NetworkProject.exe
+C:\Users\Ahmed Anwar\Desktop\NetworkProjectTemplate\NetworkProject\NetworkProject\obj\Debug\NetworkProject.pdb
+C:\Users\Ahmed Anwar\Desktop\NetworkProjectTemplate\NetworkProject\NetworkProject\bin\Debug\NetworkProject.exe
+C:\Users\Ahmed Anwar\Desktop\NetworkProjectTemplate\NetworkProject\NetworkProject\bin\Debug\NetworkProject.pdb
+C:\Users\Ahmed Anwar\Desktop\NetworkProjectTemplate\NetworkProject\NetworkProject\obj\Debug\NetworkProject.csprojResolveAssemblyReference.cache
+C:\Users\Ahmed Anwar\Desktop\NetworkProjectTemplate\NetworkProject\NetworkProject\obj\Debug\NetworkProject.GamePlayingScreen.resources
+C:\Users\Ahmed Anwar\Desktop\NetworkProjectTemplate\NetworkProject\NetworkProject\obj\Debug\NetworkProject.GameSettingScreen.resources
+C:\Users\Ahmed Anwar\Desktop\NetworkProjectTemplate\NetworkProject\NetworkProject\obj\Debug\NetworkProject.GameStart.resources
+C:\Users\Ahmed Anwar\Desktop\NetworkProjectTemplate\NetworkProject\NetworkProject\obj\Debug\NetworkProject.Properties.Resources.resources
+C:\Users\Ahmed Anwar\Desktop\NetworkProjectTemplate\NetworkProject\NetworkProject\obj\Debug\NetworkProject.WinningForm.resources
+C:\Users\Ahmed Anwar\Desktop\NetworkProjectTemplate\NetworkProject\NetworkProject\obj\Debug\NetworkProject.csproj.GenerateResource.Cache
+E:\Collage\CS\1st semistr\Networking\NetworkProject\NetworkProject\bin\Debug\NetworkProject.exe.config
+E:\Collage\CS\1st semistr\Networking\NetworkProject\NetworkProject\obj\Debug\NetworkProject.exe
+E:\Collage\CS\1st semistr\Networking\NetworkProject\NetworkProject\obj\Debug\NetworkProject.pdb
+E:\Collage\CS\1st semistr\Networking\NetworkProject\NetworkProject\bin\Debug\NetworkProject.exe
+E:\Collage\CS\1st semistr\Networking\NetworkProject\NetworkProject\bin\Debug\NetworkProject.pdb
+E:\Collage\CS\1st semistr\Networking\NetworkProject\NetworkProject\obj\Debug\NetworkProject.csprojResolveAssemblyReference.cache
+E:\Collage\CS\1st semistr\Networking\NetworkProject\NetworkProject\obj\Debug\NetworkProject.GamePlayingScreen.resources
+E:\Collage\CS\1st semistr\Networking\NetworkProject\NetworkProject\obj\Debug\NetworkProject.GameSettingScreen.resources
+E:\Collage\CS\1st semistr\Networking\NetworkProject\NetworkProject\obj\Debug\NetworkProject.GameStart.resources
+E:\Collage\CS\1st semistr\Networking\NetworkProject\NetworkProject\obj\Debug\NetworkProject.Properties.Resources.resources
+E:\Collage\CS\1st semistr\Networking\NetworkProject\NetworkProject\obj\Debug\NetworkProject.WinningForm.resources
+E:\Collage\CS\1st semistr\Networking\NetworkProject\NetworkProject\obj\Debug\NetworkProject.csproj.GenerateResource.Cache
+C:\Users\Ahmed Anwar\Music\New folder\NetworkProject\NetworkProject\bin\Debug\NetworkProject.exe.config
+C:\Users\Ahmed Anwar\Music\New folder\NetworkProject\NetworkProject\bin\Debug\NetworkProject.exe
+C:\Users\Ahmed Anwar\Music\New folder\NetworkProject\NetworkProject\bin\Debug\NetworkProject.pdb
+C:\Users\Ahmed Anwar\Music\New folder\NetworkProject\NetworkProject\obj\Debug\NetworkProject.GamePlayingScreen.resources
+C:\Users\Ahmed Anwar\Music\New folder\NetworkProject\NetworkProject\obj\Debug\NetworkProject.GameSettingScreen.resources
+C:\Users\Ahmed Anwar\Music\New folder\NetworkProject\NetworkProject\obj\Debug\NetworkProject.GameStart.resources
+C:\Users\Ahmed Anwar\Music\New folder\NetworkProject\NetworkProject\obj\Debug\NetworkProject.Properties.Resources.resources
+C:\Users\Ahmed Anwar\Music\New folder\NetworkProject\NetworkProject\obj\Debug\NetworkProject.WinningForm.resources
+C:\Users\Ahmed Anwar\Music\New folder\NetworkProject\NetworkProject\obj\Debug\NetworkProject.csproj.GenerateResource.Cache
+C:\Users\Ahmed Anwar\Music\New folder\NetworkProject\NetworkProject\obj\Debug\NetworkProject.exe
+C:\Users\Ahmed Anwar\Music\New folder\NetworkProject\NetworkProject\obj\Debug\NetworkProject.pdb
+E:\NetworkProject\NetworkProject\bin\Debug\NetworkProject.exe.config
+E:\NetworkProject\NetworkProject\bin\Debug\NetworkProject.exe
+E:\NetworkProject\NetworkProject\bin\Debug\NetworkProject.pdb
+E:\NetworkProject\NetworkProject\obj\Debug\NetworkProject.GamePlayingScreen.resources
+E:\NetworkProject\NetworkProject\obj\Debug\NetworkProject.GameSettingScreen.resources
+E:\NetworkProject\NetworkProject\obj\Debug\NetworkProject.GameStart.resources
+E:\NetworkProject\NetworkProject\obj\Debug\NetworkProject.Properties.Resources.resources
+E:\NetworkProject\NetworkProject\obj\Debug\NetworkProject.WinningForm.resources
+E:\NetworkProject\NetworkProject\obj\Debug\NetworkProject.csproj.GenerateResource.Cache
+E:\NetworkProject\NetworkProject\obj\Debug\NetworkProject.exe
+E:\NetworkProject\NetworkProject\obj\Debug\NetworkProject.pdb
+F:\Test networ\NetworkProject\NetworkProject\bin\Debug\NetworkProject.exe.config
+F:\Test networ\NetworkProject\NetworkProject\obj\Debug\NetworkProject.exe
+F:\Test networ\NetworkProject\NetworkProject\obj\Debug\NetworkProject.pdb
+F:\Test networ\NetworkProject\NetworkProject\obj\Debug\NetworkProject.csprojResolveAssemblyReference.cache
+F:\Test networ\NetworkProject\NetworkProject\obj\Debug\NetworkProject.GamePlayingScreen.resources
+F:\Test networ\NetworkProject\NetworkProject\obj\Debug\NetworkProject.GameSettingScreen.resources
+F:\Test networ\NetworkProject\NetworkProject\obj\Debug\NetworkProject.GameStart.resources
+F:\Test networ\NetworkProject\NetworkProject\obj\Debug\NetworkProject.Properties.Resources.resources
+F:\Test networ\NetworkProject\NetworkProject\obj\Debug\NetworkProject.WinningForm.resources
+F:\Test networ\NetworkProject\NetworkProject\obj\Debug\NetworkProject.csproj.GenerateResource.Cache
+F:\Test networ\NetworkProject\NetworkProject\bin\Debug\NetworkProject.exe
+F:\Test networ\NetworkProject\NetworkProject\bin\Debug\NetworkProject.pdb
+C:\Users\ahned\Desktop\NetworkProject\NetworkProject\bin\Debug\NetworkProject.exe.config
+C:\Users\ahned\Desktop\NetworkProject\NetworkProject\obj\Debug\NetworkProject.exe
+C:\Users\ahned\Desktop\NetworkProject\NetworkProject\obj\Debug\NetworkProject.pdb
+D:\NetworkProject\NetworkProject\bin\Debug\NetworkProject.exe.config
+D:\NetworkProject\NetworkProject\obj\Debug\NetworkProject.exe
+D:\NetworkProject\NetworkProject\obj\Debug\NetworkProject.pdb
+E:\Mozakra\Network\New folder\NetworkProject\NetworkProject\bin\Debug\NetworkProject.exe.config
+E:\Mozakra\Network\New folder\NetworkProject\NetworkProject\bin\Debug\NetworkProject.exe
+E:\Mozakra\Network\New folder\NetworkProject\NetworkProject\bin\Debug\NetworkProject.pdb
+E:\Mozakra\Network\New folder\NetworkProject\NetworkProject\obj\Debug\NetworkProject.GamePlayingScreen.resources
+E:\Mozakra\Network\New folder\NetworkProject\NetworkProject\obj\Debug\NetworkProject.GameSettingScreen.resources
+E:\Mozakra\Network\New folder\NetworkProject\NetworkProject\obj\Debug\NetworkProject.GameStart.resources
+E:\Mozakra\Network\New folder\NetworkProject\NetworkProject\obj\Debug\NetworkProject.Properties.Resources.resources
+E:\Mozakra\Network\New folder\NetworkProject\NetworkProject\obj\Debug\NetworkProject.WinningForm.resources
+E:\Mozakra\Network\New folder\NetworkProject\NetworkProject\obj\Debug\NetworkProject.csproj.GenerateResource.Cache
+E:\Mozakra\Network\New folder\NetworkProject\NetworkProject\obj\Debug\NetworkProject.exe
+E:\Mozakra\Network\New folder\NetworkProject\NetworkProject\obj\Debug\NetworkProject.pdb
+E:\Mozakra\Network\New folder\NetworkProject\NetworkProject\obj\Debug\NetworkProject.csprojResolveAssemblyReference.cache
